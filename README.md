@@ -1,4 +1,3 @@
-cat > README.md <<'README'
 # 🧠 AI-Powered Wastemeter Demo
 
 A Vite + React + Tailwind portfolio prototype simulating an AI overlay that measures focus and wasted time in learning environments.
